@@ -1,0 +1,24 @@
+#ifndef COUNTBOX_H_INCLUDED
+#define COUNTBOX_H_INCLUDED
+
+#include "graphics.hpp"
+#include "widgets.hpp"
+
+class CountBox : public Widget
+{
+protected:
+    bool _checked;
+    double FontSize;
+    int mini;
+    int maxi;
+
+public:
+    CountBox(int x, int y, int sx, int sy, int minimum, int maximum);
+    virtual void draw() const ;
+    virtual void handle(genv::event ev);
+    virtual bool is_checked() const;
+    virtual int novel() const;
+
+};
+
+#endif // COUNTBOX_H_INCLUDED

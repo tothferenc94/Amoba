@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1455006603 source:c:\users\józsi\desktop\graphicsproject\graphicsproject\main.cpp
+	"graphics.hpp"
+	<iostream>
+
+1454955371 c:\users\józsi\desktop\graphicsproject\graphicsproject\include\graphics.hpp
+	<string>
+
+1456218751 source:c:\users\józsi\desktop\bevezetés a programozásba 2\graphicsproject\main.cpp
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<graphics.hpp>
+
+1454955371 c:\users\józsi\desktop\bevezetés a programozásba 2\graphicsproject\include\graphics.hpp
+	<string>
+
+1363433602 source:c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+
+1454958971 c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\include\graphics.hpp
+	<string>
+
+1363433574 source:c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1363433554 c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1363433320 c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\widgets.hpp
+	"graphics.hpp"
+
+1363433316 source:c:\users\józsi\desktop\bevezetés a programozásba 2\widgeteasy\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1460975459 source:c:\users\tóth ferenc\desktop\widgeteasy\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\widgeteasy\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\widgeteasy\include\graphics.hpp
+	<string>
+
+1460975459 c:\users\tóth ferenc\desktop\widgeteasy\widgets.hpp
+	"graphics.hpp"
+
+1460975459 source:c:\users\tóth ferenc\desktop\widgeteasy\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1461054443 source:c:\users\tóth ferenc\desktop\widgeteasy\countbox.cpp
+	"graphics.hpp"
+	"CountBox.h"
+	<sstream>
+	<string>
+
+1461054443 c:\users\tóth ferenc\desktop\widgeteasy\countbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1461058045 source:c:\users\tóth ferenc\desktop\widgeteasy\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+	"CountBox.h"
+
+1461670582 source:c:\users\tóth ferenc\desktop\beadandó 2\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\beadandó 2\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\beadandó 2\include\graphics.hpp
+	<string>
+
+1461834297 c:\users\tóth ferenc\desktop\beadandó 2\widgets.hpp
+	"graphics.hpp"
+	<string>
+	<vector>
+
+1461939567 source:c:\users\tóth ferenc\desktop\beadandó 2\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+	<string>
+	"CountBox.h"
+	"ChooseBox.h"
+	"textbox.h"
+
+1461054443 c:\users\tóth ferenc\desktop\beadandó 2\countbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1461834300 source:c:\users\tóth ferenc\desktop\beadandó 2\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1461939039 source:c:\users\tóth ferenc\desktop\beadandó 2\countbox.cpp
+	"graphics.hpp"
+	"CountBox.h"
+	<sstream>
+	<string>
+	<fstream>
+
+1461939456 source:c:\users\tóth ferenc\desktop\beadandó 2\choosebox.cpp
+	"ChooseBox.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+
+1461840412 c:\users\tóth ferenc\desktop\beadandó 2\choosebox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+	<string>
+
+1461939057 source:c:\users\tóth ferenc\desktop\beadandó 2\textbox.cpp
+	"graphics.hpp"
+	"textbox.h"
+	<fstream>
+
+1461670906 c:\users\tóth ferenc\desktop\beadandó 2\textbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1462275733 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\choosebox.cpp
+	"ChooseBox.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+
+1462275787 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\choosebox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+	<string>
+
+1460891965 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\include\graphics.hpp
+	<string>
+
+1462275587 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\widgets.hpp
+	"graphics.hpp"
+	<string>
+	<vector>
+
+1462275587 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\countbox.cpp
+	"graphics.hpp"
+	"CountBox.h"
+	<sstream>
+	<string>
+	<fstream>
+
+1462275587 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\countbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1462275587 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1462275587 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1462272760 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+	<string>
+	"CountBox.h"
+	"ChooseBox.h"
+	"textbox.h"
+	"Button.h"
+
+1462275587 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\textbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1462275587 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\textbox.cpp
+	"graphics.hpp"
+	"textbox.h"
+	<fstream>
+
+1462275587 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1462275587 source:c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\button.cpp
+	"Button.h"
+	"graphics.hpp"
+
+1462275587 c:\users\tóth ferenc\desktop\saját programok\c++ grafika\beadandó 2\button.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3\button.cpp
+	"Button.h"
+	"graphics.hpp"
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3\button.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\badandó 3\include\graphics.hpp
+	<string>
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3\widgets.hpp
+	"graphics.hpp"
+	<string>
+	<vector>
+
+1463315332 source:c:\users\tóth ferenc\desktop\badandó 3\choosebox.cpp
+	"ChooseBox.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+
+1462275787 c:\users\tóth ferenc\desktop\badandó 3\choosebox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+	<string>
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3\countbox.cpp
+	"graphics.hpp"
+	"CountBox.h"
+	<sstream>
+	<string>
+	<fstream>
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3\countbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1463689439 source:c:\users\tóth ferenc\desktop\badandó 3\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1463689346 c:\users\tóth ferenc\desktop\badandó 3\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3\textbox.cpp
+	"graphics.hpp"
+	"textbox.h"
+	<fstream>
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3\textbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1463690852 source:c:\users\tóth ferenc\desktop\badandó 3\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+	<string>
+	"CountBox.h"
+	"ChooseBox.h"
+	"textbox.h"
+	"Button.h"
+	"JatekMester.h"
+
+1463690699 source:c:\users\tóth ferenc\desktop\badandó 3\jatekmester.cpp
+	"JatekMester.h"
+	"graphics.hpp"
+	"string"
+	"vector"
+
+1463690595 c:\users\tóth ferenc\desktop\badandó 3\jatekmester.h
+	"graphics.hpp"
+	"widgets.hpp"
+	"string"
+	"examplecheckbox.hpp"
+	"vector"
+
