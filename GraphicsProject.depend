@@ -249,7 +249,7 @@
 	"graphics.hpp"
 	"widgets.hpp"
 
-1463689439 source:c:\users\tóth ferenc\desktop\badandó 3\examplecheckbox.cpp
+1463740670 source:c:\users\tóth ferenc\desktop\badandó 3\examplecheckbox.cpp
 	"examplecheckbox.hpp"
 	"graphics.hpp"
 
@@ -271,7 +271,7 @@
 	"widgets.hpp"
 	"graphics.hpp"
 
-1463690852 source:c:\users\tóth ferenc\desktop\badandó 3\main.cpp
+1463742330 source:c:\users\tóth ferenc\desktop\badandó 3\main.cpp
 	"graphics.hpp"
 	"widgets.hpp"
 	"examplecheckbox.hpp"
@@ -283,16 +283,103 @@
 	"Button.h"
 	"JatekMester.h"
 
-1463690699 source:c:\users\tóth ferenc\desktop\badandó 3\jatekmester.cpp
+1463742511 source:c:\users\tóth ferenc\desktop\badandó 3\jatekmester.cpp
 	"JatekMester.h"
 	"graphics.hpp"
 	"string"
 	"vector"
 
-1463690595 c:\users\tóth ferenc\desktop\badandó 3\jatekmester.h
+1463742323 c:\users\tóth ferenc\desktop\badandó 3\jatekmester.h
 	"graphics.hpp"
 	"widgets.hpp"
 	"string"
 	"examplecheckbox.hpp"
+	"vector"
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\button.cpp
+	"Button.h"
+	"graphics.hpp"
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3 másolata\button.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1460891965 c:\users\tóth ferenc\desktop\badandó 3 másolata\include\graphics.hpp
+	<string>
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3 másolata\widgets.hpp
+	"graphics.hpp"
+	<string>
+	<vector>
+
+1463315332 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\choosebox.cpp
+	"ChooseBox.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+
+1462275787 c:\users\tóth ferenc\desktop\badandó 3 másolata\choosebox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+	<string>
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\countbox.cpp
+	"graphics.hpp"
+	"CountBox.h"
+	<sstream>
+	<string>
+	<fstream>
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3 másolata\countbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+
+1463756664 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1463756908 c:\users\tóth ferenc\desktop\badandó 3 másolata\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1463756750 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	<vector>
+	<string>
+	"CountBox.h"
+	"ChooseBox.h"
+	"textbox.h"
+	"Button.h"
+	"JatekMester.h"
+
+1462275587 c:\users\tóth ferenc\desktop\badandó 3 másolata\textbox.h
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1463744310 c:\users\tóth ferenc\desktop\badandó 3 másolata\jatekmester.h
+	"graphics.hpp"
+	"widgets.hpp"
+	"string"
+	"examplecheckbox.hpp"
+	"vector"
+	<functional>
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\textbox.cpp
+	"graphics.hpp"
+	"textbox.h"
+	<fstream>
+
+1462275587 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1463753283 source:c:\users\tóth ferenc\desktop\badandó 3 másolata\jatekmester.cpp
+	"JatekMester.h"
+	"graphics.hpp"
+	"string"
 	"vector"
 

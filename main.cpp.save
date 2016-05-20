@@ -7,9 +7,21 @@
 #include "ChooseBox.h"
 #include "textbox.h"
 #include "Button.h"
+#include "JatekMester.h"
 
 using namespace std;
 using namespace genv;
+
+class vektor{
+
+
+    vektor(vector<ExampleCheckBox*> v){
+            for(int k=0; k<40; k++){
+                   for(int l=0; l<40; l++){
+                    ExampleCheckBox * b1 = new ExampleCheckBox(10+k*15,50+l*15,17,17);
+                   }
+            }}
+};
 
 void event_loop(vector<Widget*>& widgets)
 {
@@ -44,15 +56,14 @@ int main()
 {
     gout.open(650,650);
     vector<Widget*> w;
-    vector<ExampleCheckBox*> v;
+    vektor
 
-    for(int k=0; k<40; k++){
-           for(int l=0; l<40; l++){
-            //ExampleCheckBox * b1 = new ExampleCheckBox(10+k*15,50+l*15,17,17,s);
-            //w.push_back(b1);
-           }
-    }
+    Lambda* b2 = new Lambda(100,5,100,30,[&v]()
+        {
 
+        });
+
+    w.push_back(b2);
     event_loop(w);
     return 0;
 }
